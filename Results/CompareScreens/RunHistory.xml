@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="CompareScreens">
+ <run>
+  <RunDate>2024-04-17 09:26:15.490 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.240000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240417_092615.490/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:C:/ScriptRepositories/CompareScreens.suite/Resources/grey.png on port:0
+Invalid hostname or IP address: No such host is known. 
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-04-17 09:28:18.892 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>3.227000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240417_092818.892/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-04-17 09:55:29.767 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>10.825000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240417_095529.767/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-04-17 09:56:33.392 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>18.230000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240417_095633.392/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-04-17 09:58:12.576 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>34.104000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240417_095812.576/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

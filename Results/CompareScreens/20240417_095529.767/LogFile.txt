@@ -1,0 +1,5 @@
+﻿2024-04-17 09:55:29.817 -0400	START		Running CompareScreens.script
+2024-04-17 09:55:36.398 -0400	Connect		C:/ScriptRepositories/CompareScreens.suite/Resources/grey.png:(null)	4	on_comparescreens	CompareScreens.script
+2024-04-17 09:55:36.538 -0400	CompareScreen	[Baseline_Screens]/compare1.png	Captured initial baseline image "compare1"	6	on_comparescreens	CompareScreens.script
+2024-04-17 09:55:40.596 -0400	EndTestCase		(Duration:"10.764", Errors:"0", Exceptions:"0", StartTime:"2024-04-17 09:55:29 -0400", Successes:"1", TestCase:"CompareScreens.script", Warnings:"0")
+2024-04-17 09:55:40.717 -0400	SUCCESS		Execution Time 0:00:10 CompareScreens.script

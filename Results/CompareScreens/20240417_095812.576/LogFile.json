@@ -1,0 +1,80 @@
+{
+	"entries": [
+		{
+				"message": "Running CompareScreens.script",
+				"identifier": "START",
+				"timestamp": "2024-04-17 09:58:12.626 -0400"
+			},
+		{
+				"handlerName": "on_comparescreens",
+				"timestamp": "2024-04-17 09:58:18.780 -0400",
+				"message": "C:/ScriptRepositories/CompareScreens.suite/Resources/grey.png:(null)",
+				"scriptName": "CompareScreens.script",
+				"handlerLine": 4,
+				"identifier": "Connect"
+			},
+		{
+				"handlerName": "on_comparescreens",
+				"timestamp": "2024-04-17 09:58:18.826 -0400",
+				"scriptName": "CompareScreens.script",
+				"message": "Captured initial baseline image \"compare2\"",
+				"image": "[Baseline_Screens]/compare2.png",
+				"handlerLine": 6,
+				"identifier": "CompareScreen"
+			},
+		{
+				"handlerName": "on_comparescreens",
+				"timestamp": "2024-04-17 09:58:18.946 -0400",
+				"message": "grey.png – C:/ScriptRepositories/CompareScreens.suite/Resources",
+				"scriptName": "CompareScreens.script",
+				"handlerLine": 8,
+				"identifier": "Disconnect"
+			},
+		{
+				"handlerName": "on_comparescreens",
+				"timestamp": "2024-04-17 09:58:19.076 -0400",
+				"message": "C:/ScriptRepositories/CompareScreens.suite/Resources/white.png:(null)",
+				"scriptName": "CompareScreens.script",
+				"handlerLine": 10,
+				"identifier": "Connect"
+			},
+		{
+				"image": "[Baseline_Screens]/compare2.png",
+				"identifier": "CompareScreen",
+				"message": "CompareScreen \"compare2\" -- differences between current screen and baseline",
+				"contextInfo": "{CurrentImageName:\"compare2_0000.png\", Differences:[{difference:\"Changed\", differenceType:\"Area\", rectangle:[197, 16, 356, 100], source:\"Combined\"}, {difference:\"Changed\", differenceType:\"Area\", rectangle:[390, 99, 534, 438], source:\"Combined\"}, {difference:\"Moved\", differenceType:\"Element\", rectangle:[19, 100, 99, 287], rectangleMovedTo:[18, 100, 98, 287], source:\"Baseline\"}, {difference:\"Changed\", differenceType:\"Area\", rectangle:[132, 333, 275, 437], source:\"Combined\"}]}",
+				"handlerLine": 12,
+				"scriptName": "CompareScreens.script",
+				"handlerName": "on_comparescreens",
+				"timestamp": "2024-04-17 09:58:46.304 -0400"
+			},
+		{
+				"handlerName": "on_comparescreens",
+				"timestamp": "2024-04-17 09:58:46.324 -0400",
+				"scriptName": "CompareScreens.script",
+				"message": "Found 4 differences",
+				"image": "C:/ScriptRepositories/CompareScreens.suite/Results/CompareScreens/20240417_095812.576/compare2_0000.png",
+				"handlerLine": 12,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_comparescreens",
+				"timestamp": "2024-04-17 09:58:46.504 -0400",
+				"message": "white.png – C:/ScriptRepositories/CompareScreens.suite/Resources",
+				"scriptName": "CompareScreens.script",
+				"handlerLine": 14,
+				"identifier": "Disconnect"
+			},
+		{
+				"message": "(Duration:\"34.033\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-04-17 09:58:12 -0400\", Successes:\"1\", TestCase:\"CompareScreens.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-04-17 09:58:46.693 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:34 CompareScreens.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-04-17 09:58:46.795 -0400"
+			}
+	],
+	"createdTimestamp": "2024-04-17 09:58:12.644 -0400"
+}

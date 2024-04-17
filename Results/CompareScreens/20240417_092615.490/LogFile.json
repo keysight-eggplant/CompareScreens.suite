@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running CompareScreens.script",
+				"identifier": "START",
+				"timestamp": "2024-04-17 09:26:15.506 -0400"
+			},
+		{
+				"message": "(Duration:\"0.206\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-04-17 09:26:15 -0400\", Successes:\"0\", TestCase:\"CompareScreens.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-04-17 09:26:15.732 -0400"
+			},
+		{
+				"message": "Connection Failed: Unable to connect to Server:C:/ScriptRepositories/CompareScreens.suite/Resources/grey.png on port:0\\nInvalid hostname or IP address: No such host is known. \\n -- Execution Time 0:00:00 CompareScreens.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-04-17 09:26:15.850 -0400"
+			}
+	],
+	"createdTimestamp": "2024-04-17 09:26:15.523 -0400"
+}

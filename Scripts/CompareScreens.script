@@ -1,0 +1,16 @@
+﻿Ask "What do you want to call your baseline?" with "baseline_name" title "Baseline Name"
+Put IT into myBaselineName
+
+Connect ResourcePath("grey.png"), type:screenshot
+
+CompareScreen myBaselineName
+
+Wait 5
+
+Try Disconnect
+
+Connect ResourcePath("white.png"), type:screenshot
+
+CompareScreen myBaselineName
+
+Try Disconnect

@@ -1,0 +1,4 @@
+﻿2024-04-17 09:28:18.903 -0400	START		Running CompareScreens.script
+2024-04-17 09:28:19.045 -0400	Connect		C:/ScriptRepositories/CompareScreens.suite/Resources/grey.png:(null)	1	on_comparescreens	CompareScreens.script
+2024-04-17 09:28:22.121 -0400	EndTestCase		(Duration:"3.212", Errors:"0", Exceptions:"0", StartTime:"2024-04-17 09:28:18 -0400", Successes:"1", TestCase:"CompareScreens.script", Warnings:"0")
+2024-04-17 09:28:22.171 -0400	SUCCESS		Execution Time 0:00:03 CompareScreens.script

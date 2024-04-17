@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running CompareScreens.script",
+				"identifier": "START",
+				"timestamp": "2024-04-17 09:55:29.817 -0400"
+			},
+		{
+				"handlerName": "on_comparescreens",
+				"timestamp": "2024-04-17 09:55:36.398 -0400",
+				"message": "C:/ScriptRepositories/CompareScreens.suite/Resources/grey.png:(null)",
+				"scriptName": "CompareScreens.script",
+				"handlerLine": 4,
+				"identifier": "Connect"
+			},
+		{
+				"handlerName": "on_comparescreens",
+				"timestamp": "2024-04-17 09:55:36.538 -0400",
+				"scriptName": "CompareScreens.script",
+				"message": "Captured initial baseline image \"compare1\"",
+				"image": "[Baseline_Screens]/compare1.png",
+				"handlerLine": 6,
+				"identifier": "CompareScreen"
+			},
+		{
+				"message": "(Duration:\"10.764\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-04-17 09:55:29 -0400\", Successes:\"1\", TestCase:\"CompareScreens.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-04-17 09:55:40.596 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:10 CompareScreens.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-04-17 09:55:40.717 -0400"
+			}
+	],
+	"createdTimestamp": "2024-04-17 09:55:29.828 -0400"
+}

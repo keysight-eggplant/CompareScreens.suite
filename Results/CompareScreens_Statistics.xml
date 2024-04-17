@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="CompareScreens">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2024-04-17 09:26:15 -0400</FirstRun>
+  <LastRun>2024-04-17 09:58:12 -0400</LastRun>
+  <TotalTimeOnSuccess>66.386000</TotalTimeOnSuccess>
+ </script>
+</statistics>
